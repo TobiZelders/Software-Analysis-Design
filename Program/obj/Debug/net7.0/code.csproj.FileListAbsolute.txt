@@ -1,0 +1,14 @@
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\bin\Debug\net7.0\code.exe
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\bin\Debug\net7.0\code.deps.json
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\bin\Debug\net7.0\code.runtimeconfig.json
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\bin\Debug\net7.0\code.dll
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\bin\Debug\net7.0\code.pdb
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.AssemblyInfoInputs.cache
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.AssemblyInfo.cs
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.csproj.CoreCompileInputs.cache
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.dll
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\refint\code.dll
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.pdb
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\code.genruntimeconfig.cache
+C:\Users\dkbj2\Documents\Eigen Documenten\Studie\Jaar 3\OP3\Analyse 7 assigment\code\obj\Debug\net7.0\ref\code.dll
